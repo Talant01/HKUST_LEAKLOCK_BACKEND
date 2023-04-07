@@ -16,13 +16,13 @@ To run the Superapp, you will need to have the following software installed on y
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/superapp.git
+git clone https://github.com/Talant01/HKUST_LEAKLOCK_BACKEND.git
 ```
 
 2. Install the dependencies:
 
 ```
-cd superapp/backend
+cd HKUST_LEAKLOCK_BACKEND/backend
 npm install
 ```
 
